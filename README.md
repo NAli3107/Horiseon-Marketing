@@ -12,7 +12,7 @@ However, there are still many websites that are developed with accessibility bar
 In order to improve this, I have refactored the code to include various HTML semantic elements. I have coded these elements to follow a logical structure independent of styling and position. Additionally, I have included accessible alt attributes to the icon and image elements and made certain that the header elements fall in a sequential order. Finally, I have included a title element with a concise description. 
 
 
-![Screenshot](./Develop/assets/images/screenshot.png)
+![Screenshot](./assets/images/webpage-screenshot.png)
 
 Link:
-https://github.com/NAli3107/Horiseon-Marketing.git
+https://nali3107.github.io/Horiseon-Marketing/
